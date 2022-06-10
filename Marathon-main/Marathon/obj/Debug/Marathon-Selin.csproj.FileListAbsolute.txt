@@ -1,0 +1,14 @@
+C:\mdk0102\Marathon-Selin\Marathon-Selin\bin\Debug\Marathon-Selin.exe.config
+C:\mdk0102\Marathon-Selin\Marathon-Selin\bin\Debug\Marathon-Selin.exe
+C:\mdk0102\Marathon-Selin\Marathon-Selin\bin\Debug\Marathon-Selin.pdb
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.csproj.AssemblyReference.cache
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.csproj.SuggestedBindingRedirects.cache
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon_Selin.Form1.resources
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon_Selin.Properties.Resources.resources
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.csproj.GenerateResource.cache
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.csproj.CoreCompileInputs.cache
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.exe
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon-Selin.pdb
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon_Selin.BMICalcSelin.resources
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon_Selin.BMRCalcSelin.resources
+C:\mdk0102\Marathon-Selin\Marathon-Selin\obj\Debug\Marathon_Selin.BRMCalcInfo.resources
